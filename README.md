@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![stats](https://github-readme-stats.vercel.app/api?username=burakkarababa&show_icons=true)
 
 
 
